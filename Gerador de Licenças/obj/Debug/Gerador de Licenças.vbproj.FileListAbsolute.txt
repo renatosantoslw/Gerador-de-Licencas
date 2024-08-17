@@ -1,0 +1,58 @@
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.xml
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.frmPrincipal.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.xml
+c:\users\usuario\documents\visual studio 2017\Projects\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.pdb
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe.config
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.pdb
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.xml
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.frmPrincipal.resources
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.Resources.resources
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.exe
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.xml
+C:\Users\Usuario\Desktop\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.pdb
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe.config
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.pdb
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.xml
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.AssemblyReference.cache
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.frmPrincipal.resources
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.Resources.resources
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.GenerateResource.cache
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.CoreCompileInputs.cache
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.exe
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.xml
+D:\BACKUP_PC_RENATO\DESKTOP\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.pdb
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe.config
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.pdb
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\bin\Debug\Gerador de Licenças.xml
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.AssemblyReference.cache
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.frmPrincipal.resources
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.Resources.resources
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.GenerateResource.cache
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.exe
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.xml
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\Gerador de Licenças\obj\Debug\Gerador de Licenças.pdb
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe.config
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\bin\Debug\Gerador de Licenças.exe
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\bin\Debug\Gerador de Licenças.pdb
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\bin\Debug\Gerador de Licenças.xml
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.AssemblyReference.cache
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.frmPrincipal.resources
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador_de_Licenças.Resources.resources
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.GenerateResource.cache
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador de Licenças.vbproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador de Licenças.exe
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador de Licenças.xml
+C:\REPOSITORIOS\Gerador de Licenças\Gerador de Licenças\Gerador-de-Licencas\Gerador de Licenças\obj\Debug\Gerador de Licenças.pdb
